@@ -1,0 +1,30 @@
+http://www.xfyun.cn/doccenter/vr
+http://download.csdn.net/detail/qq_21349669/9136779人脸识别DEMO
+http://www.newasp.net/soft/81224.html#downloaded
+http://www.07net01.com/2015/08/909827.html本地语音
+http://www.myexception.cn/mobile/1995607.html本地语音
+http://blog.csdn.net/abidepan/article/details/41850993 GPS
+http://www.cnblogs.com/dongweiq/p/4630645.html语音流程图
+http://www.myexception.cn/mobile/1995491.html离线命令词流程图
+http://www.codeceo.com/article/android-camera-surfaceview.html
+http://36kr.com/p/5042735.html架构师的conway法则
+http://www.xfyun.cn/sceneScheme/authenticate讯飞N人脸识别
+
+http://www.wtoutiao.com/author/gh_5906530d307c.html
+
+https://developer.nuance.com/mix/nlu/#/models/     nuance mix nlu
+
+http://mobile.51cto.com/hot-312129.html launcher开发
+
+多个SO库模块
+http://blog.csdn.net/hgl868/article/details/6678189
+
+
+android_clean_architecture
+http://android.jobbole.com/82809/
+http://www.cnblogs.com/liuling/archive/2015/12/23/mvp-pattern-android.html
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0227/2503.html
+http://www.jianshu.com/p/cd2c1c9f68d4?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=groupmessage&isappinstalled=0
+https://zhuanlan.zhihu.com/p/20001838
+http://blog.csdn.net/mao520741111/article/details/50822951
+
